@@ -1,10 +1,13 @@
 # Natural_Language_to_SQL_Chatbot_using_Google_Gemini_Pro
 Building an end to end natural language to sql converter powered by Google Gemini Pro. 
-![GenAI_Chatbot](https://github.com/Rahul713713/Q-A_Chatbot_using_Mistral_and_RAG_Approach/blob/main/images/RAG.png "Q&A Chatbot Power by Gen AI using Mistral LLM and RAG")
+## Flow Diagram for NL2SQL
+![NL2SQL_Chatbot](https://github.com/Rahul713713/Natural_Language_to_SQL_Chatbot_using_Google_Gemini_Pro/blob/main/images/Natural_Language_to_SQL_Flow_Diagram.png "NL2SQL Chabot using Google Gemini Pro and Langchain")
 - Created multiple charts,graphs,countplots,etc. in order to understand how to minimise the risk of losing money while lending to customers.
 - Worked on a dataset consisting of 614 rows of data for 12 different features.
 - Performed univariate analysis as well as multivariate analysis on various features to understand the importance of every feature.
 - Used EDA to understand how consumer attributes and different features help us in identifying customers who are eligible for a loan from customers who are not.
+## Schema for Chinook Database
+![Database_Schema](https://github.com/Rahul713713/Natural_Language_to_SQL_Chatbot_using_Google_Gemini_Pro/blob/main/images/sqlite-sample-database.jpg "Database Schema")
 
 # Problem Statement
 Predicting whether an applicant is eligible for the loan that he/she has applied for based on multiple independent variables and Machine Learning. This will help the company in automating the process of checking the eligibility of the applicant for the loan.Now,when a customer applies for a loan, the company has to make a decision whether to approve the loan or not based on the applicant's profile. 
