@@ -1,4 +1,4 @@
-# Natural_Language_to_SQL_Chatbot_using_Google_Gemini_Pro
+# Natural Language to SQL Chatbot
 Building an end to end natural language to sql converter powered by Google Gemini Pro. 
 ## Flow Diagram for NL2SQL
 ![NL2SQL_Chatbot](https://github.com/Rahul713713/Natural_Language_to_SQL_Chatbot_using_Google_Gemini_Pro/blob/main/images/Natural_Language_to_SQL_Flow_Diagram.png "NL2SQL Chabot using Google Gemini Pro and Langchain")
